@@ -1,5 +1,7 @@
 👋 Hi, I’m @sohyeonyun
+
 👀 I’m interested in FE and Android
+
 🌱 I’m currently learning React
 
 <!---
