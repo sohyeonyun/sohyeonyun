@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sohyeonyun !
-- 👀 I’m interested in Android and FE !
-- 🌱 I’m currently learning Android and FE !!
+👋 Hi, I’m @sohyeonyun
+👀 I’m interested in FE and Android
+🌱 I’m currently learning React
 
 <!---
 sohyeonyun/sohyeonyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
